@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RalitsaBatista
-- 👀 I’m interested in learning React
-- 🌱 I’m currently learning Angular, C# 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently working with Angular, ASP.Net Core 
+- 💞️ I’m looking for new challenges utilizing my skills and knowledge. 
 - 📫 How to reach me via email: ralivd@gmail.com or https://www.linkedin.com/in/ralitsabatista 
 
 <!---
