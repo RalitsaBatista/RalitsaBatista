@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RalitsaBatista
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently working with Angular, ASP.Net Core 
+- 👀 I’m interested in exploring and learning new technologies.
+- 🌱 I’m currently working with Angular2+, ASP.Net Core 
 - 💞️ I’m looking for new challenges utilizing my skills and knowledge. 
 - 📫 How to reach me via email: ralivd@gmail.com or https://www.linkedin.com/in/ralitsabatista 
 
