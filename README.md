@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RalitsaBatista
-- 👀 I’m interested in exploring and learning new technologies.
-- 🌱 I’m currently working with Angular2+, ASP.Net Core, Python, React, JavaScript, REST API
-- 💞️ I’m looking for new challenges utilizing my skills and knowledge. 
+- 🌱 I’m currently
 - 📫 How to reach me via email: ralivd@gmail.com or https://www.linkedin.com/in/ralitsabatista 
 
 <!---
