@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RalitsaBatista
-- 🌱 I’m currently
 - 📫 How to reach me via email: ralivd@gmail.com or https://www.linkedin.com/in/ralitsabatista 
 
 <!---
